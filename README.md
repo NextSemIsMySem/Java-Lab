@@ -1,2 +1,2 @@
-# Java-Lab
-repository where I code projects to learn Java programming and OOP
+# Java-Test-Repo
+my specialized autopsy table for botched Java projects
